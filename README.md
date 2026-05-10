@@ -12,3 +12,4 @@ It covers fundamental browser actions essential for any **Software Quality Assur
 *   **Language:** Java
 *   **Tool:** Selenium WebDriver
 *   **Build System:** Maven (pom.xml included)
+*   **Alerts Automation:** Handled JavaScript alerts and confirmations using Selenium WebDriver.
